@@ -1,0 +1,2 @@
+facebook-business==18.0.6
+google-cloud-bigquery==3.17.1
